@@ -1,3 +1,4 @@
+require('dotenv').config();
 const ApiError = require('../utils/ApiError');
 
 // Centralized error-handling middleware
